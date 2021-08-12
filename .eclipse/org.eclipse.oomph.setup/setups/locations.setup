@@ -4,19 +4,24 @@
     xmlns:xmi="http://www.omg.org/XMI"
     xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
   <installation>
-    <key href="file:/C:/Users/user/eclipse/jee-2020-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
-    <value href="file:/E:/Eclipse_java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <key href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+  </installation>
+  <installation>
+    <key href="file:/C:/Users/user/Downloads/eclipse-jee-2021-03-R-win32-x86_64%20(2)/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
   <installation>
     <key href="file:/C:/Users/user/eclipse/java-2020-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
     <value href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
-  <workspace>
-    <key href="file:/E:/Eclipse_java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
-    <value href="file:/C:/Users/user/eclipse/jee-2020-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
-  </workspace>
+  <installation>
+    <key href="file:/C:/Users/user/eclipse/jee-2020-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </installation>
   <workspace>
     <key href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/user/Downloads/eclipse-jee-2021-03-R-win32-x86_64%20(2)/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
     <value href="file:/C:/Users/user/eclipse/java-2020-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </workspace>
 </setup:LocationCatalog>

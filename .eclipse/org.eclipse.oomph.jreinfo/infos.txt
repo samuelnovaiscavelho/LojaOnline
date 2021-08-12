@@ -1,3 +1,2 @@
-C:\Program Files\Java\jdk1.8.0_111;1;8;0;64;true;1600482439792
-C:\Program Files\Java\jdk-15.0.2;15;0;2;64;true;1614281785855
-C:\Program Files\Java\jre1.8.0_281;1;8;0;64;false;1615406737375
+C:\Program Files\Java\jdk-15.0.2;15;0;2;64;true;1617143788914
+E:\Java\zulu11.45.27-ca-jdk11.0.10-win_x64;11;0;10;64;true;1610629201000
