@@ -14,9 +14,9 @@
   <projectCatalog
       href="index:/org.eclipse.setup#//@projectCatalogs[name='org.opendaylight']"/>
   <defaultProductVersion
+      key="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.jee']"
+      value="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.jee']/@versions[name='2021-09']"/>
+  <defaultProductVersion
       key="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.java']"
       value="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.java']/@versions[name='2021-03']"/>
-  <defaultProductVersion
-      key="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.jee']"
-      value="index:/org.eclipse.setup#//@productCatalogs[name='org.eclipse.products']/@products[name='epp.package.jee']/@versions[name='2020-12']"/>
 </setup:CatalogSelection>

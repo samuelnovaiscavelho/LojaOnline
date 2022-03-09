@@ -5,10 +5,18 @@
     xmlns:setup="http://www.eclipse.org/oomph/setup/1.0">
   <installation>
     <key href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/AULAS_FIAP/Compliance%20E%20Quality%20Assurance/junit/ProjetoCpf/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/AULAS_FIAP/Compliance%20E%20Quality%20Assurance/junit/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/JAVA/ProjetoCalculadoraDigital.java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse-workspace_r/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/JAVA/jogo_de_adivinha/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/JAVA/jogoDeAdivinha/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/JAVA/Jogo/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse-workspace/Tarefa/SistemaLojaJava/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
   <installation>
-    <key href="file:/C:/Users/user/Downloads/eclipse-jee-2021-03-R-win32-x86_64%20(2)/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <key href="file:/C:/Users/user/eclipse/jee-2021-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
     <value href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
   </installation>
   <installation>
@@ -19,9 +27,41 @@
     <key href="file:/C:/Users/user/eclipse/jee-2020-122/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </installation>
   <workspace>
+    <key href="file:/C:/AULAS_FIAP/Compliance%20E%20Quality%20Assurance/junit/ProjetoCpf/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/AULAS_FIAP/Compliance%20E%20Quality%20Assurance/junit/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/JAVA/ProjetoCalculadoraDigital.java/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
     <key href="file:/C:/Users/user/eclipse-workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
     <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
-    <value href="file:/C:/Users/user/Downloads/eclipse-jee-2021-03-R-win32-x86_64%20(2)/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/jee-2021-09/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
     <value href="file:/C:/Users/user/eclipse/java-2020-12/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/user/eclipse-workspace_r/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/JAVA/jogo_de_adivinha/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/JAVA/jogoDeAdivinha/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/JAVA/Jogo/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
+  </workspace>
+  <workspace>
+    <key href="file:/C:/Users/user/eclipse-workspace/Tarefa/SistemaLojaJava/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup#/"/>
+    <value href="file:/C:/Users/user/eclipse/java-2021-03/eclipse/configuration/org.eclipse.oomph.setup/installation.setup#/"/>
   </workspace>
 </setup:LocationCatalog>
